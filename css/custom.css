@@ -1,0 +1,14 @@
+body {background: #FAEBD7;}
+button {
+	position: fixed;
+	margin-top: 100px;
+	}
+h1 {text-align: center;}
+h3 {font-size: 40px; background-color: #3ae891;text-align: center;}
+#starter {background-color:#e6ff96;}
+#starter p {text-align: center;}
+.btn-fb {background-color: #3B5998; color: white;}
+.btn-fb:hover {background-color: green;}
+.btn-tw {background-color: #1DA1F2; color: white; top: 100px; }
+.btn-tw:hover {background-color: green;}
+.row {margin-left: 50px;}
